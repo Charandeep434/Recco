@@ -1,0 +1,32 @@
+.d-flex {
+  display: flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-column {
+  flex-direction: column;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.justify-content-around {
+  justify-content: space-around;
+}
+.align-center {
+  align-items: center;
+}
+
+.h1-details {
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.p-details {
+  font-size: 9px;
+  font-family: 'Roboto';
+}
+.containers {
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 12px;
+}

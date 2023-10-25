@@ -1,0 +1,81 @@
+.d-flex {
+  display: flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-column {
+  flex-direction: column;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.justify-content-around {
+  justify-content: space-around;
+}
+.align-center {
+  align-items: center;
+}
+
+.h1-details {
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.p-details {
+  font-size: 9px;
+  font-family: 'Roboto';
+}
+.containers {
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 12px;
+}
+.img {
+  height: 40px;
+  width: 40px;
+}
+.button-add-items {
+  border-radius: 20px;
+  border-color: #039114;
+  background-color: transparent;
+  padding: 12px;
+  color: #039114;
+  border-style: solid;
+  width: 122px;
+  margin-right: 10px;
+}
+.icon {
+  color: #039114;
+  height: 25px;
+  width: 25px;
+}
+.input {
+  height: 22px;
+  width: 380px;
+  border-radius: 20px;
+  padding: 12px;
+  border-style: solid;
+  border-width: 1px;
+}
+.check {
+  background-color: transparent;
+  border-width: 0px;
+}
+.trigger-button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: white;
+  padding: 8px 15px 8px 15px;
+  margin: 8px;
+  background-color: #7c69e9;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}

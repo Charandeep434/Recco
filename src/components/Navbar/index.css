@@ -1,0 +1,30 @@
+.d-flex {
+  display: flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.justify-content-around {
+  justify-content: space-around;
+}
+.align-center {
+  align-items: center;
+}
+.nav {
+  padding-left: 22px;
+  padding-right: 22px;
+  background-color: #039114;
+  color: #ffffff;
+}
+.h1 {
+  padding: 12px;
+  margin: 12px;
+  font-style: italic;
+}
+.nav-items {
+  padding: 12px;
+  margin: 12px;
+}

@@ -1,0 +1,52 @@
+.d-flex {
+  display: flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-column {
+  flex-direction: column;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.justify-content-around {
+  justify-content: space-around;
+}
+.align-center {
+  align-items: center;
+}
+.order-number-container {
+  padding-left: 22px;
+  padding-right: 22px;
+  box-shadow: 0px 0px 5px black;
+}
+.h1 {
+  padding: 12px;
+  margin: 12px;
+  font-style: italic;
+}
+.p {
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.button-back {
+  border-radius: 20px;
+  border-color: #039114;
+  background-color: transparent;
+  padding: 12px;
+  color: #039114;
+  border-style: solid;
+  width: 122px;
+  margin-right: 10px;
+}
+.button-approve {
+  border-radius: 20px;
+  background-color: #039114;
+  border-width: 0px;
+  padding: 12px;
+  color: #ffffff;
+  border-style: solid;
+  width: 122px;
+  margin-right: 10px;
+}
